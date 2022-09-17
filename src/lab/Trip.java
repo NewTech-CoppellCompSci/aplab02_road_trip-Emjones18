@@ -31,6 +31,8 @@ public class Trip {
 		 * Constructor assumes this is the start of a trip
 		 * All variables should be initialized accordingly
 		 */
+		
+
 		RoadTripLog trip = new RoadTripLog("Maryland 2022");
 		
 		trip.addDistance(358.4);
